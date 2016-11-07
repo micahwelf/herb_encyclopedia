@@ -1,0 +1,10 @@
+project Herb_Encyclopedia is
+
+   package Ide is
+      for Vcs_Kind use "Git";
+   end Ide;
+
+   for Exec_Dir use "bin";
+
+end Herb_Encyclopedia;
+
